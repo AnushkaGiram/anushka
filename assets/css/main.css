@@ -298,7 +298,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #008080 !important;
+			color: #5e0335 !important;
 		}
 
 	strong, b {
@@ -4495,7 +4495,8 @@ input, select, textarea {
 
 		}
 
-/* Nav Panel */
+
+		* Nav Panel */
 
 	#navPanelToggle {
 		text-decoration: none;
